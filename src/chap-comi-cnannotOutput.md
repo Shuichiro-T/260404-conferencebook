@@ -143,5 +143,6 @@ comi@comiLABOch2
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 Javaエンジニア。配信者。酒と筋トレとシーシャと珈琲と我が家の犬と夫が好き。
 双極症と闘いながら技術書執筆をしています。
-Youtube\[^1]細々とやっています。
+Youtube[^1]細々とやっています。
+
 [^1]: <a href="https://www.youtube.com/@comiLABOch2">https://www.youtube.com/@comiLABOch2</a>
