@@ -8,7 +8,6 @@ class: chapter
 mae616@mae616_
 </div>
 
-## はじめに
 
 <p style="margin-top: 1em; margin-bottom: 1em;">
 あなたは、エンジニアになりたいと思った日を覚えていますか？

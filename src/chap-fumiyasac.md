@@ -34,13 +34,13 @@ fumiyasac
 
 ## 実際のノート事例集
 
-![10/3に登壇する予定の内容を草案としてまとめたもの](images/chap-fumiyasac/note_scrap1.jpg)
+![10/3に登壇する予定の内容を草案としてまとめたもの](images/chap-fumiyasac/note_scrap1.jpg){width=80%}
 
-![GeometryReaderに関する基本事項をまとめたもの](images/chap-fumiyasac/note_scrap2.jpg)
+![GeometryReaderに関する基本事項をまとめたもの](images/chap-fumiyasac/note_scrap2.jpg){width=80%}
 
-![Flutterでの便利なUI実装パッケージを利用した実装例(1)](images/chap-fumiyasac/note_scrap3.jpg)
+![Flutterでの便利なUI実装パッケージを利用した実装例(1)](images/chap-fumiyasac/note_scrap3.jpg){width=80%}
 
-![Flutterでの便利なUI実装パッケージを利用した実装例(2)](images/chap-fumiyasac/note_scrap4.jpg)
+![Flutterでの便利なUI実装パッケージを利用した実装例(2)](images/chap-fumiyasac/note_scrap4.jpg){width=80%}
 
 ## アウトプットに「疲れてしまった」タイミングをどの様に克服するか？
 

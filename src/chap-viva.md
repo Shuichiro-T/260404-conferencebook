@@ -70,7 +70,7 @@ LTをしたあと、「どんな反応があったか」「どこが伝わって
 
 **書籍情報：** [アジャイルなチームをつくる ふりかえりガイドブック 始め方・ふりかえりの型・手法・マインドセット（翔泳社）](https://www.shoeisha.co.jp/book/detail/9784798168791)
 
-#### 著者紹介
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/oyakata.jpg">
