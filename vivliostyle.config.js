@@ -29,7 +29,6 @@ const def = {
     "part-tips.md",
     "chap-introduction.md",
     "chap-template.md",
-    // 登壇者の寄稿
     "chap-dpon.md",
     "chap-ryo.md",
     "chap-aizack.md",
@@ -50,10 +49,9 @@ const def = {
     "chap-yuni.md",
     "chap-uhoshi.md",
     "chap-taniori.md",
-    "chap-yurimiya.md",
-    "chap-kouno-supporter.md",
+ 	"chap-kouno-supporter.md",
 	"chap-yurimiya.md",
-  "chap-shuichiro.md",
+	"chap-shuichiro.md",
 
     // 後書き
     "90-postscript.md",
