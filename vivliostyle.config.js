@@ -48,6 +48,7 @@ const def = {
 	"chap-uhoshi.md",
 	"chap-taniori.md",
 	"chap-yurimiya.md",
+  "chap-shuichiro.md",
 
     // 後書き
     "90-postscript.md",
@@ -94,4 +95,5 @@ if (isPrint) {
 }
 
 export default def;
+
 
