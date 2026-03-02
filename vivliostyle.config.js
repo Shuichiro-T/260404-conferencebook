@@ -51,8 +51,10 @@ const def = {
     "chap-uhoshi.md",
     "chap-taniori.md",
     "chap-yurimiya.md",
-    // サポーター/スポンサーの寄稿
     "chap-kouno-supporter.md",
+	"chap-yurimiya.md",
+  "chap-shuichiro.md",
+
     // 後書き
     "90-postscript.md",
     "98-authors.md",
@@ -98,4 +100,5 @@ if (isPrint) {
 }
 
 export default def;
+
 
